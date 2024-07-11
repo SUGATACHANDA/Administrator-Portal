@@ -46,7 +46,6 @@ const BillboardPage = async ({
           sizes={sizesData}
           cuisines={cuisineData}
           kitchens={kitchenData}
-          description=""
         />
       </div>
     </div>
